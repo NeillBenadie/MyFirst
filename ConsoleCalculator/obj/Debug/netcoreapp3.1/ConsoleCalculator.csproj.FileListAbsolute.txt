@@ -1,0 +1,14 @@
+C:\Users\Neill\Documents\Visual Studio 2019\Studies\Learn C# for Beginners Crash Course\Programs\ConsoleCalculator\ConsoleCalculator\bin\Debug\netcoreapp3.1\ConsoleCalculator.exe
+C:\Users\Neill\Documents\Visual Studio 2019\Studies\Learn C# for Beginners Crash Course\Programs\ConsoleCalculator\ConsoleCalculator\bin\Debug\netcoreapp3.1\ConsoleCalculator.deps.json
+C:\Users\Neill\Documents\Visual Studio 2019\Studies\Learn C# for Beginners Crash Course\Programs\ConsoleCalculator\ConsoleCalculator\bin\Debug\netcoreapp3.1\ConsoleCalculator.runtimeconfig.json
+C:\Users\Neill\Documents\Visual Studio 2019\Studies\Learn C# for Beginners Crash Course\Programs\ConsoleCalculator\ConsoleCalculator\bin\Debug\netcoreapp3.1\ConsoleCalculator.runtimeconfig.dev.json
+C:\Users\Neill\Documents\Visual Studio 2019\Studies\Learn C# for Beginners Crash Course\Programs\ConsoleCalculator\ConsoleCalculator\bin\Debug\netcoreapp3.1\ConsoleCalculator.dll
+C:\Users\Neill\Documents\Visual Studio 2019\Studies\Learn C# for Beginners Crash Course\Programs\ConsoleCalculator\ConsoleCalculator\bin\Debug\netcoreapp3.1\ConsoleCalculator.pdb
+C:\Users\Neill\Documents\Visual Studio 2019\Studies\Learn C# for Beginners Crash Course\Programs\ConsoleCalculator\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.csproj.AssemblyReference.cache
+C:\Users\Neill\Documents\Visual Studio 2019\Studies\Learn C# for Beginners Crash Course\Programs\ConsoleCalculator\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neill\Documents\Visual Studio 2019\Studies\Learn C# for Beginners Crash Course\Programs\ConsoleCalculator\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.AssemblyInfoInputs.cache
+C:\Users\Neill\Documents\Visual Studio 2019\Studies\Learn C# for Beginners Crash Course\Programs\ConsoleCalculator\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.AssemblyInfo.cs
+C:\Users\Neill\Documents\Visual Studio 2019\Studies\Learn C# for Beginners Crash Course\Programs\ConsoleCalculator\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Neill\Documents\Visual Studio 2019\Studies\Learn C# for Beginners Crash Course\Programs\ConsoleCalculator\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.dll
+C:\Users\Neill\Documents\Visual Studio 2019\Studies\Learn C# for Beginners Crash Course\Programs\ConsoleCalculator\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.pdb
+C:\Users\Neill\Documents\Visual Studio 2019\Studies\Learn C# for Beginners Crash Course\Programs\ConsoleCalculator\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.genruntimeconfig.cache
